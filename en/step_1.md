@@ -1,13 +1,13 @@
 Sometimes you need to move a turtle around the screen without drawing. 
 
-To lift the pen use:
+To lift the pen, use:
 
 ```python
 turtle.penup()
 ```
-Then you can use movement commands such as `forward`, `back` and `goto` to move around the screen without drawing. 
+Then you can use movement commands such as `forward`, `back`, and `goto` to move around the screen without drawing. 
 
-To start drawing again use:
+To start drawing again, use:
 
 ```python
 turtle.pendown()
